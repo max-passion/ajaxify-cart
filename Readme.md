@@ -30,3 +30,7 @@ Things you can change:
 * `addedToCartBtnLabel`
 
   Label on add to cart button that shows for howLongTillBtnReturnsToNormal milliseconds after item has been added to the cart. Default is `Thank you!`.
+
+* `addingToCartBtnLabel`
+
+  Label on add to cart button while item is being added to the cart. Default is `Adding...`.
