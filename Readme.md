@@ -26,3 +26,7 @@ Things you can change:
 - `addToCartBtnLabel`
 
   Final label on add that cart button after the ajax request, so that you can add more. You could change that to 'Added to bag' for example. Default is `Add to cart`.
+
+* `addedToCartBtnLabel`
+
+  Label on add to cart button that shows for howLongTillBtnReturnsToNormal milliseconds after item has been added to the cart. Default is `Thank you!`.
