@@ -34,3 +34,7 @@ Things you can change:
 * `addingToCartBtnLabel`
 
   Label on add to cart button while item is being added to the cart. Default is `Adding...`.
+
+* `soldOutBtnLabel`
+
+  Label on add to cart button when all of the item's stock is in the cart. Default is `Sold Out`.
