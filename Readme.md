@@ -20,3 +20,9 @@ Then, include the ajaxify-cart snippet in your theme by pasting the code below i
 # How to configure (optional)
 
 No configuration is necessary, but if you want or need to change a few things, go into your snippet and, at the bottom of it, change how the `Shopify.AjaxifyCart.init()` method is called, by passing to it a configuration object.
+
+Things you can change:
+
+- `addToCartBtnLabel`
+
+  Final label on add that cart button after the ajax request, so that you can add more. You could change that to 'Added to bag' for example. Default is `Add to cart`.
